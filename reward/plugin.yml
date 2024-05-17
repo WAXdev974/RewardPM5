@@ -1,0 +1,13 @@
+---
+name: reward
+version: 1.0.0
+main: wax_dev\reward\Main
+author: wax_dev
+api: 5.15.0
+src-namespace-prefix: wax_dev\reward
+
+
+permissions:
+  reward.cmd:
+    default: true
+...
